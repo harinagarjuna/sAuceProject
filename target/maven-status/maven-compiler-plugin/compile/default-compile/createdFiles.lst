@@ -1,0 +1,11 @@
+Utilities\excelReader.class
+SwagLabsProject\SAuceProject\pageObjects\productsPage.class
+SwagLabsProject\SAuceProject\pageObjects\ConfirmationPage.class
+Utilities\Listeners.class
+Utilities\ExtentReporterNG.class
+SwagLabsProject\SAuceProject\BaseClass.class
+SwagLabsProject\SAuceProject\pageObjects\CartPage.class
+SwagLabsProject\SAuceProject\pageObjects\CheckOutPage.class
+SwagLabsProject\SAuceProject\pageObjects\OverviewCartPage.class
+SwagLabsProject\SAuceProject\abstractClass.class
+SwagLabsProject\SAuceProject\pageObjects\loginPage.class
